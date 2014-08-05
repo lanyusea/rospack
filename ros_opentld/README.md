@@ -1,3 +1,13 @@
+This is **NOT** a catkin workspace, use rosmake and roslaunch instead.
+
+    $ roscd tld_tracker
+    $ rosmake
+    replace the default image_topic argument "im_acq" by your camera topic name
+    $ roslaunch tld_tracker ros_tld_tracker.launch
+    $ roslaunch tld_tracker ros_tld_gui.launch
+    F5 in GUI
+
+
 This is a ROS version of the OpenTLD tracker.
 
 OpenTLD is a C++ implementation of TLD Predator (Tracking. Learning and Detection) implemented by the AIT (Austrian Institute of Technology) that was originally published in MATLAB by Zdenek Kalal. OpenTLD is used for tracking objects in video streams. It doesn't need any training data and is also able to load predefined models (http://gnebehay.github.com/OpenTLD/).
