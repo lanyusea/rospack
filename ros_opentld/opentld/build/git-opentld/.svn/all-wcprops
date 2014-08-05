@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/Ronan0912/OpenTLD/!svn/ver/171/trunk
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/Ronan0912/OpenTLD/!svn/ver/142/trunk/README.md
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Ronan0912/OpenTLD/!svn/ver/138/trunk/CMakeLists.txt
+END
+OpenTLDConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/OpenTLDConfig.cmake.in
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/Ronan0912/OpenTLD/!svn/ver/15/trunk/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/Ronan0912/OpenTLD/!svn/ver/123/trunk/.gitignore
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/Ronan0912/OpenTLD/!svn/ver/124/trunk/AUTHORS
+END

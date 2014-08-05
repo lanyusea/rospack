@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Ronan0912/OpenTLD/!svn/ver/137/trunk/src/3rdparty/libconfig
+END
+grammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/grammar.c
+END
+libconfig.h++
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/libconfig.h++
+END
+scanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/scanner.c
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/grammar.h
+END
+libconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/libconfig.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Ronan0912/OpenTLD/!svn/ver/137/trunk/src/3rdparty/libconfig/CMakeLists.txt
+END
+scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/scanner.h
+END
+parsectx.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/parsectx.h
+END
+libconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/libconfig.h
+END
+libconfigcpp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/libconfigcpp.cc
+END
+scanctx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/scanctx.c
+END
+strbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/strbuf.c
+END
+wincompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/wincompat.h
+END
+scanctx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/scanctx.h
+END
+libconfig.hh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/libconfig.hh
+END
+strbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/strbuf.h
+END
+libconfigcpp.c++
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Ronan0912/OpenTLD/!svn/ver/127/trunk/src/3rdparty/libconfig/libconfigcpp.c++
+END

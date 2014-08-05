@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/Ronan0912/OpenTLD/!svn/ver/139/trunk/debian
+END
+opentld.manpages
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Ronan0912/OpenTLD/!svn/ver/100/trunk/debian/opentld.manpages
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Ronan0912/OpenTLD/!svn/ver/138/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/Ronan0912/OpenTLD/!svn/ver/97/trunk/debian/compat
+END
+opentld.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Ronan0912/OpenTLD/!svn/ver/101/trunk/debian/opentld.1
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Ronan0912/OpenTLD/!svn/ver/138/trunk/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Ronan0912/OpenTLD/!svn/ver/98/trunk/debian/copyright
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/Ronan0912/OpenTLD/!svn/ver/97/trunk/debian/docs
+END
+opentld.install
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Ronan0912/OpenTLD/!svn/ver/139/trunk/debian/opentld.install
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/Ronan0912/OpenTLD/!svn/ver/138/trunk/debian/rules
+END

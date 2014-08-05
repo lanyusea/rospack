@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/aqua/rospkg/ros_opentld/tld_msgs/build/devel/setup.sh

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/Ronan0912/OpenTLD/!svn/ver/138/trunk/res/packaging
+END
+manpage.pod
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Ronan0912/OpenTLD/!svn/ver/125/trunk/res/packaging/manpage.pod
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Ronan0912/OpenTLD/!svn/ver/125/trunk/res/packaging/README
+END
+opentld.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Ronan0912/OpenTLD/!svn/ver/125/trunk/res/packaging/opentld.desktop
+END
+qopentld.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Ronan0912/OpenTLD/!svn/ver/138/trunk/res/packaging/qopentld.desktop
+END

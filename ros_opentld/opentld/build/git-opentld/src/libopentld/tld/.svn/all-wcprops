@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Ronan0912/OpenTLD/!svn/ver/171/trunk/src/libopentld/tld
+END
+MedianFlowTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/MedianFlowTracker.h
+END
+ForegroundDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Ronan0912/OpenTLD/!svn/ver/144/trunk/src/libopentld/tld/ForegroundDetector.h
+END
+IntegralImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/IntegralImage.h
+END
+DetectorCascade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Ronan0912/OpenTLD/!svn/ver/170/trunk/src/libopentld/tld/DetectorCascade.cpp
+END
+DetectionResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/DetectionResult.cpp
+END
+Clustering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/Clustering.cpp
+END
+NNClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/NNClassifier.cpp
+END
+TLDUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/TLDUtil.cpp
+END
+DetectorCascade.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/DetectorCascade.h
+END
+DetectionResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/DetectionResult.h
+END
+TLD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/TLD.cpp
+END
+Clustering.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/Clustering.h
+END
+NNClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/NNClassifier.h
+END
+TLDUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/TLDUtil.h
+END
+TLD.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/TLD.h
+END
+NormalizedPatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/NormalizedPatch.h
+END
+VarianceFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/VarianceFilter.cpp
+END
+EnsembleClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/EnsembleClassifier.cpp
+END
+MedianFlowTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/MedianFlowTracker.cpp
+END
+VarianceFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/VarianceFilter.h
+END
+ForegroundDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Ronan0912/OpenTLD/!svn/ver/171/trunk/src/libopentld/tld/ForegroundDetector.cpp
+END
+EnsembleClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Ronan0912/OpenTLD/!svn/ver/134/trunk/src/libopentld/tld/EnsembleClassifier.h
+END
